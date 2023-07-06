@@ -1,2 +1,5 @@
-flag{REDACTED}
-echo "Yo wassup"
+flag{th3_3a5iest_1ev3l}
+
+./level1
+
+env  #to get the list of environment variables
